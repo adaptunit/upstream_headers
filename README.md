@@ -25,7 +25,7 @@ Please see custom_upstream_proxy.ex  for example.
     forward("/", CustomUpstreamProxy, upstream: "http://proxied.url:80/path",
             headers: [
               {"X-Header", "some value"}
-            ], response_mode: :buffer)
+            ])
   end
 ```
 
