@@ -33,6 +33,6 @@ Below it's part of router.ex ...
 
 ## License
 
-ReverseProxyPlug is released under the MIT License.
+UpstreamHeaders is released under the MIT License.
 
 
