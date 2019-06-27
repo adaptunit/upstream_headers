@@ -1,4 +1,4 @@
-# UpstreamHeadersPlug
+# UpstreamHeaders
 
 A upstream headers plug for set some Headers of HTTP proxying a request.
 Using with another Plug such as ReverseProxyPlug (https://github.com/tallarium/reverse_proxy_plug)
