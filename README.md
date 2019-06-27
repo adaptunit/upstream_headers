@@ -18,6 +18,7 @@ end
 ## Usage
 
 Please see [custom_upstream_proxy.ex](https://github.com/adaptunit/upstream_headers/blob/master/custom_upstream_proxy.ex)  for example.
+Below it's part of router.ex ...
 
 ```elixir
   scope "/upstream" do
