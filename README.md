@@ -10,7 +10,7 @@ Add `upstreamheaders` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:upstreamheaders, git: "https://github.com/adaptunit/upstream_headers/"}
+    {:upstream_headers, git: "https://github.com/adaptunit/upstream_headers/"}
   ]
 end
 ```
